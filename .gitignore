@@ -1,0 +1,7 @@
+*.db
+venv
+*images
+tuned-model
+embeddings
+__pycache__
+.streamlit
